@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.eazyBytes.openai" options="-parameters" />
+      <module name="com.eazyBytes.openai.main" options="-parameters" />
+      <module name="com.eazyBytes.openai.test" options="-parameters" />
+      <module name="openai" options="-parameters" />
+      <module name="openai.main" options="-parameters" />
+      <module name="openai.test" options="-parameters" />
+    </option>
+  </component>
+</project>
